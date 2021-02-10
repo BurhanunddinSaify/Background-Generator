@@ -1,0 +1,28 @@
+#gradient{
+    background: linear-gradient(to right, red , yellow);
+    margin: 0%;
+    text-align: center;
+    
+}
+h1{
+/* font-variant: small-caps; */
+text-align: center;
+/* text-decoration: underline; */
+/* font-family: 'Langar', cursive; */
+font-family: 'Montserrat', sans-serif;
+opacity: 0.8;
+font-size: 60px;
+color: white;
+}
+h2{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    /* font-family: 'Montserrat Alternates', sans-serif; */
+    font-size: 40px;
+}
+#color1, #color2{
+    display: inline;
+    border: none;
+    position: relative;
+    
+}
